@@ -9,9 +9,9 @@ namespace JurnalMod4
         {
             // memvalidasi generic class
             SimpleDataBase<double> db = new SimpleDataBase<double>();
-            db.AddNewData(12);
-            db.AddNewData(34);
-            db.AddNewData(56);
+            db.AddNewData(13);
+            db.AddNewData(02);
+            db.AddNewData(20);
             db.PrintAllData();
         }
     }
