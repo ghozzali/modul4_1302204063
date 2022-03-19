@@ -37,7 +37,7 @@ namespace JurnalMod4
         {
             for (int i = 0; i < this.inputDates.Count; i++)
             {
-                Console.WriteLine("Data " + i + " berisi: " + this.storedData[i] +
+                Console.WriteLine("Data " + i + " berisikan: " + this.storedData[i] +
                     ", yang disimpan pada waktu UTC: " + this.inputDates[i]);
             }
         }
